@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "save-session": "playwright test tests/Tasks/TTA_session_storage.spec.ts"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.61.1",
-    "@types/node": "^26.1.1",
-    "allure-playwright": "^3.10.2"
+    "@types/node": "^26.1.2",
+    "allure-playwright": "^3.10.2",
+    "dotenv": "^17.4.2"
   }
 }
