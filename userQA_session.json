@@ -1,0 +1,22 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://qajobfit.com",
+      "localStorage": [
+        {
+          "name": "theme",
+          "value": "light"
+        },
+        {
+          "name": "sb-uxeuaiwmxntvzgrzrfkj-auth-token",
+          "value": "{\"access_token\":\"eyJhbGciOiJIUzI1NiIsImtpZCI6IjJsQU9MMnhjaEFMeDA0eDUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3V4ZXVhaXdteG50dnpncnpyZmtqLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJlMmZjZDRiNC01NjZjLTRiYTMtYjhhYy04ZDdiNzdiNDFmNjUiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzg1NTI5Mjc1LCJpYXQiOjE3ODU1MjU2NzUsImVtYWlsIjoicnVwZW5kZXIuc2luZ2hAZ21haWwuY29tIiwicGhvbmUiOiIiLCJhcHBfbWV0YWRhdGEiOnsicHJvdmlkZXIiOiJlbWFpbCIsInByb3ZpZGVycyI6WyJlbWFpbCJdfSwidXNlcl9tZXRhZGF0YSI6eyJlbWFpbCI6InJ1cGVuZGVyLnNpbmdoQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmdWxsX25hbWUiOiJSdXBlbmRlciBTaW5naCBDaGhpbGFyIiwicGhvbmVfdmVyaWZpZWQiOmZhbHNlLCJzdWIiOiJlMmZjZDRiNC01NjZjLTRiYTMtYjhhYy04ZDdiNzdiNDFmNjUifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJwYXNzd29yZCIsInRpbWVzdGFtcCI6MTc4NTUyNTY3NX1dLCJzZXNzaW9uX2lkIjoiNDkxNjZiMjMtNmU5MS00MTQ5LTgxMzYtYTUwYTYxYTM0YzViIiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.gNjE2YGwshPWlngE0iOwBJ9cAs3ZX2WCA6NI3PyAr9Y\",\"token_type\":\"bearer\",\"expires_in\":3600,\"expires_at\":1785529275,\"refresh_token\":\"vzr63uv6abdq\",\"user\":{\"id\":\"e2fcd4b4-566c-4ba3-b8ac-8d7b77b41f65\",\"aud\":\"authenticated\",\"role\":\"authenticated\",\"email\":\"rupender.singh@gmail.com\",\"email_confirmed_at\":\"2026-07-21T12:20:40.79263Z\",\"phone\":\"\",\"confirmed_at\":\"2026-07-21T12:20:40.79263Z\",\"last_sign_in_at\":\"2026-07-31T19:21:15.577707789Z\",\"app_metadata\":{\"provider\":\"email\",\"providers\":[\"email\"]},\"user_metadata\":{\"email\":\"rupender.singh@gmail.com\",\"email_verified\":true,\"full_name\":\"Rupender Singh Chhilar\",\"phone_verified\":false,\"sub\":\"e2fcd4b4-566c-4ba3-b8ac-8d7b77b41f65\"},\"identities\":[{\"identity_id\":\"41477870-bece-40a3-b537-7e92c7f6a8ea\",\"id\":\"e2fcd4b4-566c-4ba3-b8ac-8d7b77b41f65\",\"user_id\":\"e2fcd4b4-566c-4ba3-b8ac-8d7b77b41f65\",\"identity_data\":{\"email\":\"rupender.singh@gmail.com\",\"email_verified\":false,\"full_name\":\"Rupender Singh Chhilar\",\"phone_verified\":false,\"sub\":\"e2fcd4b4-566c-4ba3-b8ac-8d7b77b41f65\"},\"provider\":\"email\",\"last_sign_in_at\":\"2026-07-21T12:20:40.75069Z\",\"created_at\":\"2026-07-21T12:20:40.75075Z\",\"updated_at\":\"2026-07-21T12:20:40.75075Z\",\"email\":\"rupender.singh@gmail.com\"}],\"created_at\":\"2026-07-21T12:20:40.651002Z\",\"updated_at\":\"2026-07-31T19:21:15.654852Z\",\"is_anonymous\":false},\"weak_password\":null}"
+        },
+        {
+          "name": "qa_last_session",
+          "value": "Sat Aug 01 2026"
+        }
+      ]
+    }
+  ]
+}

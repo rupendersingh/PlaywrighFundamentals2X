@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "save-session": "playwright test tests/Tasks/TTA_session_storage.spec.ts"
   },
